@@ -1,0 +1,42 @@
+# Ignore virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Mac OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Test results
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.tmp
